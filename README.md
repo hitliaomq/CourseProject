@@ -4,6 +4,14 @@
 
 > This is a project of  *Mechanics of Materials* in grade two of undergraduate
 
+MatMecCal(Materials Mechanics Calculator) is a open source program to handle the force analysis of simple beam and cantilever beam based on MATLAB. It has following features:
+
+- [ ] Object: simple beam and cantilever beam
+- [ ] Force Type:  Force(Concentrated or uniformly distributed) and Couple(Concentrated)
+- [ ] Problem Type: Statically determinate problem and Statically indeterminate problem
+- [ ] Section Type:  Rectangle or Circular or Annular or I-type
+- [ ] GUI(Graphic User Interface) in Chinese
+
 ## RayHeat
 
 > This is a project of  *Principle of Transmission* in grade three of undergraduate
