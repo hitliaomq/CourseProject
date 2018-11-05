@@ -14,3 +14,12 @@
 
 > This is a project of *Principle of Transmission* in grade three of undergraduate
 
+
+
+# Author Information
+
+*Liao Mingqing*
+
+*e-mail: liaomq1900127@163.com*
+
+*FGMS @ Harbin Institute of Technology(HIT)*
