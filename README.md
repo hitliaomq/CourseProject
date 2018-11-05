@@ -1,5 +1,7 @@
 # CourseProject
 
+In this project, some codes coded during my undergraduate period were presented. And all the interface and comments were written in Chinese. If somebody is interested in this project and wants to extend this project, please contact me by email for more help.
+
 ##  MatMecCal
 
 > This is a project of  *Mechanics of Materials* in grade two of undergraduate
