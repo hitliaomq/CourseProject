@@ -30,7 +30,7 @@ RayHeat is an open source MATLAB-based program to handle the temperature distrib
 
 > This is a project of *Principle of Transmission* in grade three of undergraduate
 
-<img src="https://github.com/hitliaomq/CourseProject/blob/master/Carburization/ScreenShot/Interface_cspread.png" width="266" height="176"></img>
+<img src="https://github.com/hitliaomq/CourseProject/blob/master/Carburization/ScreenShot/Interface_cspread.png" width="266" height="250"></img>
 
 Carburization is an open source program to handle the concentrate of carbon as a function of time and width during carburization.
 
