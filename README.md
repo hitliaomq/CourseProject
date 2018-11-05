@@ -18,11 +18,15 @@ MatMecCal(Materials Mechanics Calculator) is a open source program to handle the
 
 > This is a project of  *Principle of Transmission* in grade three of undergraduate
 
+![figure](https://github.com/hitliaomq/CourseProject/blob/master/RayHeat/ScreenShot/Interface_RayHeat.png)
+
 
 
 ## Carburization
 
 > This is a project of *Principle of Transmission* in grade three of undergraduate
+
+![figure](https://github.com/hitliaomq/CourseProject/blob/master/Carburization/ScreenShot/Interface_cspread.png)
 
 
 
