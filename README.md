@@ -36,7 +36,7 @@ Carburization is an open source program to handle the concentrate of carbon as a
 
 # Author Information
 
-*Liao Mingqing*
+*Liao Mingqing(廖名情)*
 
 *e-mail: liaomq1900127@163.com*
 
