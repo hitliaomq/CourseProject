@@ -6,7 +6,7 @@
 
 ![figure](https://github.com/hitliaomq/CourseProject/blob/master/MatMecCal/ScreenShot/Example.png)
 
-MatMecCal(Materials Mechanics Calculator) is a open source program to handle the force analysis of simple beam and cantilever beam based on MATLAB. It has following features:
+MatMecCal(Materials Mechanics Calculator) is an open source program to handle the force analysis of simple beam and cantilever beam based on MATLAB. It has following features:
 
 - Object: simple beam and cantilever beam
 - Force Type:  Force(Concentrated or uniformly distributed) and Couple(Concentrated)
@@ -20,7 +20,7 @@ MatMecCal(Materials Mechanics Calculator) is a open source program to handle the
 
 ![figure](https://github.com/hitliaomq/CourseProject/blob/master/RayHeat/ScreenShot/Interface_RayHeat.png)
 
-
+RayHeat is an open source MATLAB-based program to handle the temperature distribution with width and time in a 2D infinite plane.
 
 ## Carburization
 
@@ -28,7 +28,7 @@ MatMecCal(Materials Mechanics Calculator) is a open source program to handle the
 
 ![figure](https://github.com/hitliaomq/CourseProject/blob/master/Carburization/ScreenShot/Interface_cspread.png)
 
-
+Carburization is an open source program to handle the concentrate of carbon as a function of time and width during carburization.
 
 # Author Information
 
