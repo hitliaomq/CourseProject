@@ -20,9 +20,9 @@ MatMecCal(Materials Mechanics Calculator) is an open source program to handle th
 
 > This is a project of  *Principle of Transmission* in grade three of undergraduate
 
-![figure](https://github.com/hitliaomq/CourseProject/blob/master/RayHeat/ScreenShot/Interface_RayHeat.png){:width="266px" height="176px"}
+![figure](https://github.com/hitliaomq/CourseProject/blob/master/RayHeat/ScreenShot/Interface_RayHeat.png)
 
-
+<img src="https://github.com/hitliaomq/CourseProject/blob/master/RayHeat/ScreenShot/Interface_RayHeat.png" width="266" height="176"></img>
 
 RayHeat is an open source MATLAB-based program to handle the temperature distribution with width and time in a 2D infinite plane.
 
