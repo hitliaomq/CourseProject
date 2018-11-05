@@ -4,7 +4,7 @@
 
 > This is a project of  *Mechanics of Materials* in grade two of undergraduate
 
-! [ ](https://github.com/hitliaomq/CourseProject/blob/master/MatMecCal/ScreenShot/Example.png)
+![figure](https://github.com/hitliaomq/CourseProject/blob/master/MatMecCal/ScreenShot/Example.png)
 
 MatMecCal(Materials Mechanics Calculator) is a open source program to handle the force analysis of simple beam and cantilever beam based on MATLAB. It has following features:
 
